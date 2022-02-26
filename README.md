@@ -1,3 +1,3 @@
 # cs-circle
 
-this is a repo for cs circle
+this is the cs repo tasks for CAT team
